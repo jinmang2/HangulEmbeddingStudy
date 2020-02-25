@@ -1,6 +1,12 @@
 # Korean Embedding
 한국어 임베딩 스터디 내역을 기록합니다.
 
+### Peoples
+- [YoungYeon Park](https://github.com/pyy0715)
+- [MyungHoon Jin](https://github.com/jinmang2)
+- KwangJune Choi
+- GyungSu Min
+
 ### Reference
 - http://ratsgo.github.io/embedding
 
