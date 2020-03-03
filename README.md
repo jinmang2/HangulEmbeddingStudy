@@ -36,8 +36,8 @@
 
 
 # Reference
-[NLP_tutorial](https://github.com/graykode/nlp-tutorial?files=1')
-[한국어 임베딩 튜토리얼](https://ratsgo.github.io/embedding/)
+- [NLP_tutorial](https://github.com/graykode/nlp-tutorial?files=1')
+- [한국어 임베딩 튜토리얼](https://ratsgo.github.io/embedding/)
 
 ### book
 
